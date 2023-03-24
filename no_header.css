@@ -54,7 +54,7 @@
   border-bottom: 1px solid #CCCCCC !important;
   /* font-size: 10px;  */
   /* height: 25px; */
-  padding: 5px;
+  padding: 0px;
 
   /* Add customization here  */
 
@@ -63,7 +63,7 @@
 .reportTable td {
   color: #000000;
   vertical-align: super;
-  padding: 5px;
+  padding: 0px;
   /*background: #FFFFFF;*/
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
